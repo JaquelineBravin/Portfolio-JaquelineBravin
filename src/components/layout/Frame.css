@@ -1,0 +1,25 @@
+#root {
+  position: relative;
+}
+
+.upFrame {
+  position: fixed;
+  background: linear-gradient(to right, #09093b, #151552, #1a1a59);
+  border-radius: 10px;
+  width: 40%;
+  margin: 1%;
+  height: 5%;
+}
+
+.downFrame {
+  position: fixed;
+  display: flex;
+  justify-content: flex-end;
+  background: linear-gradient(to left, #09093b, #151552, #1a1a59);
+  border-radius: 10px;
+  width: 40%;
+  margin: 1%;
+  height: 5%;
+  bottom: 0;
+  right: 0;
+}
