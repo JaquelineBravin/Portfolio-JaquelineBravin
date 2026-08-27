@@ -4,7 +4,7 @@
 
 .upFrame {
   position: fixed;
-  background: linear-gradient(to right, #09093b, #151552, #1a1a59);
+  background-color: #09093b;
   border-radius: 10px;
   width: 40%;
   margin: 1%;
@@ -15,7 +15,7 @@
   position: fixed;
   display: flex;
   justify-content: flex-end;
-  background: linear-gradient(to left, #09093b, #151552, #1a1a59);
+  background-color: #09093b;
   border-radius: 10px;
   width: 40%;
   margin: 1%;

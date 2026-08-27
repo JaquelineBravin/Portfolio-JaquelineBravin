@@ -1,4 +1,4 @@
-import './Header.css';
+import './Logos.css';
 import jsLogo from '../../img/js.png';
 import reactLogo from '../../img/react.png';
 import tsLogo from '../../img/typescript.png';
